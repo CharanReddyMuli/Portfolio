@@ -74,7 +74,7 @@ jobs:
       - name: Checkout profile repository
         uses: actions/checkout@v4
         with:
-          repository: Charanreddy0007/Charanreddy0007
+          repository: ${{ vars.DB_REPOSITORY }}
           token: ${{ secrets.PROFILE_REPO_TOKEN }}
           path: second-repo
 
