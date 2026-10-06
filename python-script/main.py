@@ -17,8 +17,8 @@ svg_file = DATA_DIR / "github_heatmap.svg"
 
 load_dotenv()
 TOKENGITHUB = os.getenv("TOKENGITHUB")
-leetcodeUsername = os.getenv("LEETCODE_USERNAME") 
-githubUsername = os.getenv("GITHUB_USERNAME")
+leetcodeUsername = os.getenv("USERNAME_LEETCODE") 
+githubUsername = os.getenv("USERNAME_GITHUB")
 
 json_data = {
     'query': Query.AIP,
