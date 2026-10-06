@@ -47,8 +47,8 @@ jobs:
       - name: Run Python Script
         env:
           TOKENGITHUB: ${{ secrets.TOKENGITHUB }}
-          LEETCODE_USERNAME: ${{ vars.USERNAME_LEETCODE }}
-          GITHUB_USERNAME: ${{ vars.USERNAME_GITHUB }}
+          USERNAME_LEETCODE: ${{ vars.USERNAME_LEETCODE }}
+          USERNAME_GITHUB: ${{ vars.USERNAME_GITHUB }}
         run: |
           python python-script/main.py
 
