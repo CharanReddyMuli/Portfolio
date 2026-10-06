@@ -5,8 +5,6 @@ import os
 from collections import defaultdict
 from dotenv import load_dotenv
 from pathlib import Path
-import config
-
 
 # Path
 ROOT = Path(__file__).resolve().parent.parent
@@ -19,11 +17,13 @@ svg_file = DATA_DIR / "github_heatmap.svg"
 
 load_dotenv()
 TOKENGITHUB = os.getenv("TOKENGITHUB")
+leetcodeUsername = os.getenv("LEETCODE_USERNAME") 
+githubUsername = os.getenv("GITHUB_USERNAME")
 
 json_data = {
     'query': Query.AIP,
     'variables': {
-        'username': config.leetcodeusername,
+        'username': leetcodeUsername,
     },
     'operationName': 'getUserProfile',
     
@@ -49,7 +49,7 @@ with open (response_file, 'w') as f:
 json_data = {
     "query": Query.GITHUB,
     "variables": {
-        "username": config.gtihubusername,
+        "username": githubUsername,
     },
     "operationName": "getUserProfile",
 }
