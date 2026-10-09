@@ -576,7 +576,7 @@ const projectDetails = {
     desc:'A fully automated pipeline that keeps a GitHub repository in sync with accepted LeetCode submissions — no manual copy-pasting.',
     features:['Sync accepted solutions automatically','Stores only the best submission per problem','Rollback mechanism for regressions','Status tracking across every run'],
     tech:['Python','GraphQL','SQLite','GitHub Actions'],
-    link:'https://github.com/Charanreddy0007/LeetCode-Sync'
+    link:'https://github.com/CharanReddyMuli/LeetCode-Sync'
   },
   proj2:{
     title:'Port Scanner',
@@ -584,7 +584,7 @@ const projectDetails = {
     desc:'A from-scratch TCP port scanner using raw sockets, built to understand the three-way handshake and scanning strategies at a low level.',
     features:['Raw TCP connect scanning','Configurable port ranges and timeouts','Threaded scanning for speed','Clear open/closed/filtered reporting'],
     tech:['Python','Sockets'],
-    link:'https://github.com/Charanreddy0007/Multi-Threaded_Port_Scanner'
+    link:'https://github.com/CharanReddyMuli/Multi-Threaded_Port_Scanner'
   },
   proj3:{
     title:'Educational Keylogger',
@@ -592,7 +592,7 @@ const projectDetails = {
     desc:'A proof-of-concept keylogger built strictly for learning how input-capture and Windows API hooks work, run only inside an isolated, controlled lab environment.',
     features:['Windows API keyboard hook demonstration','Local, encrypted log output for testing','No network exfiltration — sandboxed by design','Built purely for coursework and research'],
     tech:['Python','Windows API'],
-    link:'https://github.com/Charanreddy0007/Python-Keystroke-Logger-Educational-Project-'
+    link:'https://github.com/CharanReddyMuli/Python-Keystroke-Logger-Educational-Project-'
   }
 };
 const modalOverlay = document.getElementById('modalOverlay');
