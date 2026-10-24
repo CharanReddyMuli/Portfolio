@@ -6,7 +6,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/135025143?u=101d6a5836a7572020bc707be768c59118ff2e59&v=4",
             "bio": "CSE student | Cybersecurity & Digital Forensics | Skilled in Python & Java | Exploring tech and innovation",
             "followers": {
-                "totalCount": 6
+                "totalCount": 7
             },
             "following": {
                 "totalCount": 1
@@ -18,45 +18,6 @@
                 "contributionCalendar": {
                     "totalContributions": 475,
                     "weeks": [
-                        {
-                            "contributionDays": [
-                                {
-                                    "date": "2025-10-19",
-                                    "contributionCount": 0,
-                                    "contributionLevel": "NONE"
-                                },
-                                {
-                                    "date": "2025-10-20",
-                                    "contributionCount": 0,
-                                    "contributionLevel": "NONE"
-                                },
-                                {
-                                    "date": "2025-10-21",
-                                    "contributionCount": 0,
-                                    "contributionLevel": "NONE"
-                                },
-                                {
-                                    "date": "2025-10-22",
-                                    "contributionCount": 0,
-                                    "contributionLevel": "NONE"
-                                },
-                                {
-                                    "date": "2025-10-23",
-                                    "contributionCount": 0,
-                                    "contributionLevel": "NONE"
-                                },
-                                {
-                                    "date": "2025-10-24",
-                                    "contributionCount": 0,
-                                    "contributionLevel": "NONE"
-                                },
-                                {
-                                    "date": "2025-10-25",
-                                    "contributionCount": 0,
-                                    "contributionLevel": "NONE"
-                                }
-                            ]
-                        },
                         {
                             "contributionDays": [
                                 {
@@ -2080,6 +2041,15 @@
                                 },
                                 {
                                     "date": "2026-10-24",
+                                    "contributionCount": 0,
+                                    "contributionLevel": "NONE"
+                                }
+                            ]
+                        },
+                        {
+                            "contributionDays": [
+                                {
+                                    "date": "2026-10-25",
                                     "contributionCount": 0,
                                     "contributionLevel": "NONE"
                                 }
