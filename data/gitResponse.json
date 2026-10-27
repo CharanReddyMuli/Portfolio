@@ -12,11 +12,11 @@
                 "totalCount": 1
             },
             "repoCount": {
-                "totalCount": 14
+                "totalCount": 16
             },
             "contributionsCollection": {
                 "contributionCalendar": {
-                    "totalContributions": 475,
+                    "totalContributions": 484,
                     "weeks": [
                         {
                             "contributionDays": [
@@ -2060,8 +2060,8 @@
                                 },
                                 {
                                     "date": "2026-10-27",
-                                    "contributionCount": 0,
-                                    "contributionLevel": "NONE"
+                                    "contributionCount": 9,
+                                    "contributionLevel": "FIRST_QUARTILE"
                                 }
                             ]
                         }
@@ -2137,6 +2137,92 @@
                                     "node": {
                                         "name": "TypeScript",
                                         "color": "#3178c6"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "name": "NPTEL-Practice-2.0",
+                        "description": null,
+                        "url": "https://github.com/CharanReddyMuli/NPTEL-Practice-2.0",
+                        "stargazerCount": 0,
+                        "forkCount": 0,
+                        "primaryLanguage": {
+                            "name": "TypeScript",
+                            "color": "#3178c6"
+                        },
+                        "languages": {
+                            "edges": [
+                                {
+                                    "size": 38032,
+                                    "node": {
+                                        "name": "TypeScript",
+                                        "color": "#3178c6"
+                                    }
+                                },
+                                {
+                                    "size": 3372,
+                                    "node": {
+                                        "name": "CSS",
+                                        "color": "#663399"
+                                    }
+                                },
+                                {
+                                    "size": 498,
+                                    "node": {
+                                        "name": "HTML",
+                                        "color": "#e34c26"
+                                    }
+                                },
+                                {
+                                    "size": 242,
+                                    "node": {
+                                        "name": "JavaScript",
+                                        "color": "#f1e05a"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "name": "NPTEL-Practice-",
+                        "description": null,
+                        "url": "https://github.com/CharanReddyMuli/NPTEL-Practice-",
+                        "stargazerCount": 0,
+                        "forkCount": 0,
+                        "primaryLanguage": {
+                            "name": "TypeScript",
+                            "color": "#3178c6"
+                        },
+                        "languages": {
+                            "edges": [
+                                {
+                                    "size": 24162,
+                                    "node": {
+                                        "name": "TypeScript",
+                                        "color": "#3178c6"
+                                    }
+                                },
+                                {
+                                    "size": 498,
+                                    "node": {
+                                        "name": "HTML",
+                                        "color": "#e34c26"
+                                    }
+                                },
+                                {
+                                    "size": 432,
+                                    "node": {
+                                        "name": "CSS",
+                                        "color": "#663399"
+                                    }
+                                },
+                                {
+                                    "size": 242,
+                                    "node": {
+                                        "name": "JavaScript",
+                                        "color": "#f1e05a"
                                     }
                                 }
                             ]
@@ -2432,43 +2518,43 @@
             "languageBreakdown": [
                 {
                     "name": "Java",
-                    "percentage": 36.77,
+                    "percentage": 32.03,
                     "color": "#b07219"
                 },
                 {
                     "name": "Python",
-                    "percentage": 23.14,
+                    "percentage": 20.15,
                     "color": "#3572A5"
                 },
                 {
                     "name": "HTML",
-                    "percentage": 21.34,
+                    "percentage": 18.78,
                     "color": "#e34c26"
                 },
                 {
+                    "name": "TypeScript",
+                    "percentage": 12.48,
+                    "color": "#3178c6"
+                },
+                {
                     "name": "CSS",
-                    "percentage": 6.83,
+                    "percentage": 6.68,
                     "color": "#663399"
                 },
                 {
                     "name": "JavaScript",
-                    "percentage": 6.05,
+                    "percentage": 5.37,
                     "color": "#f1e05a"
                 },
                 {
                     "name": "Shell",
-                    "percentage": 4.05,
+                    "percentage": 3.53,
                     "color": "#89e051"
                 },
                 {
                     "name": "C++",
-                    "percentage": 1.13,
+                    "percentage": 0.98,
                     "color": "#f34b7d"
-                },
-                {
-                    "name": "TypeScript",
-                    "percentage": 0.69,
-                    "color": "#3178c6"
                 }
             ]
         },
