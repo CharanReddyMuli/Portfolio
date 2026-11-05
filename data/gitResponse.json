@@ -12,11 +12,11 @@
                 "totalCount": 1
             },
             "repoCount": {
-                "totalCount": 16
+                "totalCount": 17
             },
             "contributionsCollection": {
                 "contributionCalendar": {
-                    "totalContributions": 493,
+                    "totalContributions": 496,
                     "weeks": [
                         {
                             "contributionDays": [
@@ -2070,6 +2070,11 @@
                                 },
                                 {
                                     "date": "2026-11-05",
+                                    "contributionCount": 3,
+                                    "contributionLevel": "FIRST_QUARTILE"
+                                },
+                                {
+                                    "date": "2026-11-06",
                                     "contributionCount": 0,
                                     "contributionLevel": "NONE"
                                 }
@@ -2147,6 +2152,49 @@
                                     "node": {
                                         "name": "TypeScript",
                                         "color": "#3178c6"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "name": "FFCS",
+                        "description": null,
+                        "url": "https://github.com/CharanReddyMuli/FFCS",
+                        "stargazerCount": 0,
+                        "forkCount": 0,
+                        "primaryLanguage": {
+                            "name": "Python",
+                            "color": "#3572A5"
+                        },
+                        "languages": {
+                            "edges": [
+                                {
+                                    "size": 80135,
+                                    "node": {
+                                        "name": "Python",
+                                        "color": "#3572A5"
+                                    }
+                                },
+                                {
+                                    "size": 28889,
+                                    "node": {
+                                        "name": "JavaScript",
+                                        "color": "#f1e05a"
+                                    }
+                                },
+                                {
+                                    "size": 16946,
+                                    "node": {
+                                        "name": "CSS",
+                                        "color": "#663399"
+                                    }
+                                },
+                                {
+                                    "size": 4429,
+                                    "node": {
+                                        "name": "HTML",
+                                        "color": "#e34c26"
                                     }
                                 }
                             ]
@@ -2527,43 +2575,43 @@
             },
             "languageBreakdown": [
                 {
-                    "name": "Java",
-                    "percentage": 31.99,
-                    "color": "#b07219"
-                },
-                {
                     "name": "Python",
-                    "percentage": 20.13,
+                    "percentage": 28.35,
                     "color": "#3572A5"
                 },
                 {
+                    "name": "Java",
+                    "percentage": 25.63,
+                    "color": "#b07219"
+                },
+                {
                     "name": "HTML",
-                    "percentage": 18.72,
+                    "percentage": 15.67,
                     "color": "#e34c26"
                 },
                 {
                     "name": "TypeScript",
-                    "percentage": 12.52,
+                    "percentage": 10.03,
                     "color": "#3178c6"
                 },
                 {
-                    "name": "CSS",
-                    "percentage": 6.65,
-                    "color": "#663399"
-                },
-                {
                     "name": "JavaScript",
-                    "percentage": 5.42,
+                    "percentage": 8.75,
                     "color": "#f1e05a"
                 },
                 {
+                    "name": "CSS",
+                    "percentage": 7.92,
+                    "color": "#663399"
+                },
+                {
                     "name": "Shell",
-                    "percentage": 3.52,
+                    "percentage": 2.82,
                     "color": "#89e051"
                 },
                 {
                     "name": "C++",
-                    "percentage": 1.05,
+                    "percentage": 0.84,
                     "color": "#f34b7d"
                 }
             ]
