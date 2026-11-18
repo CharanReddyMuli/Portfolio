@@ -2076,6 +2076,49 @@
             "topRepositories": {
                 "nodes": [
                     {
+                        "name": "Portfolio",
+                        "description": null,
+                        "url": "https://github.com/CharanReddyMuli/Portfolio",
+                        "stargazerCount": 1,
+                        "forkCount": 2,
+                        "primaryLanguage": {
+                            "name": "HTML",
+                            "color": "#e34c26"
+                        },
+                        "languages": {
+                            "edges": [
+                                {
+                                    "size": 97308,
+                                    "node": {
+                                        "name": "HTML",
+                                        "color": "#e34c26"
+                                    }
+                                },
+                                {
+                                    "size": 31148,
+                                    "node": {
+                                        "name": "CSS",
+                                        "color": "#663399"
+                                    }
+                                },
+                                {
+                                    "size": 24384,
+                                    "node": {
+                                        "name": "JavaScript",
+                                        "color": "#f1e05a"
+                                    }
+                                },
+                                {
+                                    "size": 8834,
+                                    "node": {
+                                        "name": "Python",
+                                        "color": "#3572A5"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
                         "name": "LeetCode-Sync",
                         "description": "Automatically synchronize accepted LeetCode solutions to GitHub with GraphQL, SQLite state management, README generation, and GitHub Actions.",
                         "url": "https://github.com/CharanReddyMuli/LeetCode-Sync",
@@ -2356,49 +2399,6 @@
                             "edges": [
                                 {
                                     "size": 4688,
-                                    "node": {
-                                        "name": "Python",
-                                        "color": "#3572A5"
-                                    }
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "name": "Portfolio",
-                        "description": null,
-                        "url": "https://github.com/CharanReddyMuli/Portfolio",
-                        "stargazerCount": 0,
-                        "forkCount": 2,
-                        "primaryLanguage": {
-                            "name": "HTML",
-                            "color": "#e34c26"
-                        },
-                        "languages": {
-                            "edges": [
-                                {
-                                    "size": 97308,
-                                    "node": {
-                                        "name": "HTML",
-                                        "color": "#e34c26"
-                                    }
-                                },
-                                {
-                                    "size": 31148,
-                                    "node": {
-                                        "name": "CSS",
-                                        "color": "#663399"
-                                    }
-                                },
-                                {
-                                    "size": 24384,
-                                    "node": {
-                                        "name": "JavaScript",
-                                        "color": "#f1e05a"
-                                    }
-                                },
-                                {
-                                    "size": 8834,
                                     "node": {
                                         "name": "Python",
                                         "color": "#3572A5"
