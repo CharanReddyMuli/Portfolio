@@ -3,19 +3,19 @@
         "allQuestionsCount": [
             {
                 "difficulty": "All",
-                "count": 4115
+                "count": 4119
             },
             {
                 "difficulty": "Easy",
-                "count": 976
+                "count": 977
             },
             {
                 "difficulty": "Medium",
-                "count": 2148
+                "count": 2150
             },
             {
                 "difficulty": "Hard",
-                "count": 991
+                "count": 992
             }
         ],
         "matchedUser": {
@@ -28,7 +28,7 @@
             "profile": {
                 "realName": "Charan Reddy",
                 "userAvatar": "https://assets.leetcode.com/users/Charan_reddy_07/avatar_1784276231.png",
-                "ranking": 1643322
+                "ranking": 1643896
             },
             "badges": [
                 {
