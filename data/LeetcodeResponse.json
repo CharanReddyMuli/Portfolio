@@ -3,7 +3,7 @@
         "allQuestionsCount": [
             {
                 "difficulty": "All",
-                "count": 4123
+                "count": 4124
             },
             {
                 "difficulty": "Easy",
@@ -15,20 +15,20 @@
             },
             {
                 "difficulty": "Hard",
-                "count": 993
+                "count": 994
             }
         ],
         "matchedUser": {
             "username": "CharanReddyMuli",
             "contributions": {
-                "points": 470,
+                "points": 471,
                 "questionCount": 0,
                 "testcaseCount": 0
             },
             "profile": {
                 "realName": "Charan Reddy",
                 "userAvatar": "https://assets.leetcode.com/users/Charan_reddy_07/avatar_1784276231.png",
-                "ranking": 1632059
+                "ranking": 1632681
             },
             "badges": [
                 {
